@@ -25,6 +25,7 @@ Install inquirer
 
 ## Usage
 just follow the video
+https://user-images.githubusercontent.com/73506696/107899811-5f5b2980-6f0d-11eb-86f4-7b011b2771c8.mp4
 
 ## Questions
 Please see the following:
